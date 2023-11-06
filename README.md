@@ -4,7 +4,7 @@ This repository collects research papers on large **Vision Language Models in Au
 If there are any omissions or suggestions, you're warmly welcome to reach out to us (xingcheng.zhou@tum.de or mingyu.liu@tum.de). The repo is maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/).
 
 <p align="center">
-<img src="Assets/figure1.png" width="300" height="300"/>
+<img src="Assets/figure1.png" width="330" height="330"/>
 </p>
 
 ## :fire: Citate our Paper!
