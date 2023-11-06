@@ -1,15 +1,16 @@
-# :boom: :boom: :boom: Awesome-Vision-Language-Models (VLMs)-in-Autonomous-Driving (AD)-and-Intelligent-Transportation-Systems (ITS)
+# Vision-Language Models (VLMs) in Autonomous Driving (AD) and Intelligent Transportation Systems (ITS) 🔥
+[![GitHub stars]() ![GitHub forks]() [![GitHub license]()]()
 This repository collects research papers on large **Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**. The repository will be continuously updated to track the latest updates. 
- 
-If there are any omissions or suggestions, you're warmly welcome to reach out to us (xingcheng.zhou@tum.de or mingyu.liu@tum.de). The repo is maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/).
+
+If there are any omissions or suggestions, you're warmly welcome to reach out to us (xingcheng.zhou@tum.de or mingyu.liu@tum.de). The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
 
 **Keywords: Vision Language Models, Large Language Models, Autonomous Driving, Intelligent Transportation Systems**
 <p align="center">
 <img src="Assets/figure1.png" width="330" height="330"/>
 </p>
 
-## :fire: :fire: Citate our Paper!
-Please visit [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/pdf/2310.14414.pdf) for more details and comprehensive information. If you find our repo and paper helpful, please cite it as following.
+## 🤝 &nbsp; Ciattion
+Please visit [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/pdf/2310.14414.pdf) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
 
 ```BibTeX
 @misc{zhou2023vision,
@@ -22,7 +23,7 @@ Please visit [Vision Language Models in Autonomous Driving and Intelligent Trans
 }
 ```
 
-## :fire: :fire: Introduction
+## :page_with_curl: Introduction
 The applications of **Vision-Language Models (VLMs)** in the fields of **Autonomous Driving (AD)** and **Intelligent Transportation Systems (ITS)** have attracted widespread attention due to their outstanding performance and the ability to leverage **Large Language Models (LLMs)**. By integrating
 language data, the vehicles, and transportation systems are able to deeply understand real-world environments, improving driving safety and efficiency
 
@@ -30,7 +31,7 @@ language data, the vehicles, and transportation systems are able to deeply under
 <img src="Assets/figure2.png"/>
 </p>
 
-## :fire: :fire: Large VLMs in Autonomous Driving
+## 🌟 Large VLMs in Autonomous Driving
 
 ### :star: Perception and Understanding
 | Method                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Year | Task                                                | Code Link                                                        |                                               
@@ -86,7 +87,7 @@ language data, the vehicles, and transportation systems are able to deeply under
 | [BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout](https://arxiv.org/pdf/2308.01661.pdf)                                                                            | 2023 | Conditional Image Generation |                                                               |
 
 
-## :fire: :fire: Large VLMs in Intelligent Transportation Systems
+## 🌟 Large VLMs in Intelligent Transportation Systems
 
 ### :star: ITS Perception and Understanding
 | Method                                                                                                                                                                                                                                                                                            | Year | Task                                        | Code Link                                                      |                                               
@@ -107,7 +108,7 @@ language data, the vehicles, and transportation systems are able to deeply under
 | [LLM Powered Sim-to-real Transfer for Traffic Signal Control](https://arxiv.org/pdf/2308.14284.pdf)                                                                                                                                                                                                                                                                                           | 2023 | Traffic Signal Control |           |
 
 
-## :fire: :fire: Dataset
+## 🌟 Dataset
 
 ### :star: Autonomous Driving Datasets
 | Dataset                                                                                                                                                                                                                                                                                            | Year | Task                                        | Data Link                                                      |                                               
