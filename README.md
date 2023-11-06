@@ -1,4 +1,4 @@
-# Vision-Language Models (VLMs) in Autonomous Driving (AD) and Intelligent Transportation Systems (ITS) 🔥
+# Vision-Language Models (VLMs) in Autonomous Driving (AD) and Intelligent Transportation Systems (ITS) :oncoming_automobile:
 <div align="center">
 <a href="https://arxiv.org/abs/2310.14414"><img src="https://img.shields.io/badge/arXiv-2310.14414-b31b1b.svg" alt="arXiv Badge"/></a>
 <a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/stargazers"><img src="https://img.shields.io/github/stars/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Stars Badge"/></a>
