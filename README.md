@@ -154,3 +154,7 @@ language data, the vehicles, and transportation systems are able to deeply under
 | [Real-world Anomaly Detection in Surveillance Videos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)                                                                                                                             | 2018 | Anomaly Detection       | [Link](https://www.crcv.ucf.edu/projects/real-world/) |
 | [Sutd-trafficqa: A question answering benchmark and an efficient network for video reasoning over traffic events](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.pdf)                         | 2021 | Visual Question Answering      | [Link](https://github.com/sutdcv/SUTD-TrafficQA) |
 | [AerialVLN: Vision-and-Language Navigation for UAVs](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_AerialVLN_Vision-and-Language_Navigation_for_UAVs_ICCV_2023_paper.pdf)                                                                                                              | 2023 | Vision-Language Navigation      | [Link](https://github.com/AirVLN/AirVLN) |
+
+## License
+
+This repository is released under the Apache 2.0 license.
