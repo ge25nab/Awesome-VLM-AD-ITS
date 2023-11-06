@@ -5,7 +5,7 @@
 <a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/network/members"><img src="https://img.shields.io/github/forks/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Forks Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readm/pulls"><img src="https://img.shields.io/github/issues-pr/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/issues"><img src="https://img.shields.io/github/issues/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Issues Badge"/></a>
-<a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="License Badge"/></a>
 </div>
 
 This repository collects research papers on __Vision-Language Models in Autonomous Driving and Intelligent Transportation Systems__. The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
