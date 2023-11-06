@@ -2,12 +2,13 @@
 <div align="center">
 <a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/stargazers"><img src="https://img.shields.io/github/stars/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Stars Badge"/></a>
 <a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/network/members"><img src="https://img.shields.io/github/forks/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readm/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readm" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/issues"><img src="https://img.shields.io/github/issues/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Issues Badge"/></a>
-<a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS?color=2b9348" alt="License Badge"/></a>
 </div>
-This repository collects research papers on large **Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**. The repository will be continuously updated to track the latest updates. 
+This repository collects research papers on **Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**. The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
 
-If there are any omissions or suggestions, you're warmly welcome to reach out to us (xingcheng.zhou@tum.de or mingyu.liu@tum.de). The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
+If there are any omissions or suggestions, you're warmly welcome to reach out to us (xingcheng.zhou@tum.de or mingyu.liu@tum.de). 
 
 **Keywords: Vision Language Models, Large Language Models, Autonomous Driving, Intelligent Transportation Systems**
 <p align="center">
