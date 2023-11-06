@@ -1,2 +1,2 @@
-# Awesome-Vision-Language-Models-in-Autonomous-Driving-and-Intelligent-Transportation-Systems
- This repository collects research papers of large Vision Language Models in Autonomous driving and Intelligent Transportation System. The repository will be continuously updated to track the latest update.
+# Awesome-Vision-Language-Models(VLMs)-in-Autonomous-Driving(AD)-and-Intelligent-Transportation-Systems(ITS)
+ This repository collects research papers on large Vision Language Models in Autonomous Driving and Intelligent Transportation Systems. The repository will be continuously updated to track the latest updates.
