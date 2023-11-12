@@ -17,7 +17,7 @@ If there are any omissions or suggestions, you're warmly welcome to reach out to
 <img src="Assets/figure1.png" width="330" height="330"/>
 </p>
 
-## 🤝 &nbsp; Ciattion
+## 🤝 &nbsp; Citation
 Please visit [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/pdf/2310.14414.pdf) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
 
 ```BibTeX
