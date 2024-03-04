@@ -36,7 +36,7 @@ The applications of **Vision-Language Models (VLMs)** in the fields of **Autonom
 language data, the vehicles, and transportation systems are able to deeply understand real-world environments, improving driving safety and efficiency
 
 <p align="center">
-<img src="Assets/figure2.png"/>
+<img src="Assets/figure2.jpg"/>
 </p>
 
 ## 🌟 Large VLMs in Autonomous Driving
@@ -66,6 +66,9 @@ language data, the vehicles, and transportation systems are able to deeply under
 | [ALT-Pilot: Autonomous navigation with Language augmented Topometric maps](https://arxiv.org/pdf/2310.02324.pdf)                                                             | 2023 | Vision-Language Localization, Language-Guided Navigation | [Page](https://navigate-anywhere.github.io/ALT-Pilot/) |
 | [GPT-Driver: Learning to Drive with GPT](https://arxiv.org/pdf/2310.01415.pdf)                                                                                               | 2023 | Motion Planing                                           | [Github](https://github.com/PointsCoder/GPT-Driver)    |
 | [Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving](https://arxiv.org/pdf/2309.05282.pdf)   | 2023 | Trajectory Prediction                                    |                                                        |
+| [DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf)   | 2024 | Trajectory Prediction, Motion Planning                                    |                 [Github](https://tsinghua-mars-lab.github.io/DriveVLM/)                                       |
+
+
 
 ### Decision-Making and Control
 | Method                                                                                                                                                                                                                                                                | Year | Task                                        | Code Link                                              |                                               
@@ -85,6 +88,8 @@ language data, the vehicles, and transportation systems are able to deeply under
 | [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)                                            | 2023 | Open-loop Control, Visual Question Answering        | []()                                                                                    |
 | [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/pdf/2302.00673.pdf)                                                                            | 2023 | Open-loop Decision-Making, Visual Spatial Reasoning | [Github](https://github.com/jxbbb/ADAPT#adapt-action-aware-driving-caption-transformer) |
 | [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/pdf/2312.09245.pdf)       | 2023 | Closed-loop Control  | [Github](https://github.com/OpenGVLab/DriveMLM) |
+| [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf)       | 2023 | Open-loop Control, 3D Object Detection and Tracking  |  |
+
 
 ### Data Generation
 | Method                                                                                                                                                                                                                              | Year | Task                                    | Code Link                                                     |                                               
