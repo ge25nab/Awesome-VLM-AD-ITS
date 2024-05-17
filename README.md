@@ -18,7 +18,7 @@ Conditional Data Generation, Decision Making, Language-guided Navigation, End-to
 </p>
 
 ## :fire: Update
-- [17.May.2024] Our paper has been accepted by [T-IV](https://ieeexplore.ieee.org/document/10531702/keywords#keywords).
+- [17.May.2024] Our paper has been accepted by [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/document/10531702/keywords#keywords).
 - [22.Oct.2023] ArXiv Version: Vision Language Models in Autonomous Driving and Intelligent Transportation Systems 
 
 ## 🤝 &nbsp; Citation
