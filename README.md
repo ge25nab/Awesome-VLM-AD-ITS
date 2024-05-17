@@ -1,6 +1,6 @@
-# Vision-Language Models (VLMs) in Autonomous Driving (AD) and Intelligent Transportation Systems (ITS) :oncoming_automobile:
+# Vision Language Models in Autonomous Driving: A Survey and Outlook :oncoming_automobile:
 <div align="center">
-<a href="https://arxiv.org/abs/2310.14414"><img src="https://img.shields.io/badge/arXiv-2310.14414-b31b1b.svg" alt="arXiv Badge"/></a>
+<a href="https://ieeexplore.ieee.org/document/10531702"><img src="https://img.shields.io/badge/arXiv-2310.14414-b31b1b.svg" alt="arXiv Badge"/></a>
 <a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/stargazers"><img src="https://img.shields.io/github/stars/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Stars Badge"/></a>
 <a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/network/members"><img src="https://img.shields.io/github/forks/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Forks Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readm/pulls"><img src="https://img.shields.io/github/issues-pr/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="Pull Requests Badge"/></a>
@@ -8,27 +8,32 @@
 <a href="https://github.com/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ge25nab/Awesome-VLMs-in-Autonomous-Driving-and-ITS" alt="License Badge"/></a>
 </div>
 
-This repository collects research papers on __Vision-Language Models in Autonomous Driving and Intelligent Transportation Systems__. The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
+This repository collects research papers on __Vision Language Models in Autonomous Driving: A Survey and Outlook__. The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
 
-If there are any omissions or suggestions, you're warmly welcome to reach out to us (xingcheng.zhou@tum.de or mingyu.liu@tum.de). 
 
-**Keywords: Vision Language Models, Large Language Models, Autonomous Driving, Intelligent Transportation Systems**
+**Keywords: Vision Language Model, Large Language Model, Autonomous Driving, Intelligent Vehicle,
+Conditional Data Generation, Decision Making, Language-guided Navigation, End-to-End Autonomous Driving**
 <p align="center">
 <img src="Assets/figure1.png" width="330" height="330"/>
 </p>
 
+## :fire: Update
+- [17.May.2024] Our paper has been accepted by [T-IV](https://ieeexplore.ieee.org/document/10531702/keywords#keywords).
+- [22.Oct.2023] ArXiv Version: Vision Language Models in Autonomous Driving and Intelligent Transportation Systems 
+
 ## 🤝 &nbsp; Citation
-Please visit [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/pdf/2310.14414.pdf) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
+Please visit [Vision Language Models in Autonomous Driving: A Survey and Outlook](https://ieeexplore.ieee.org/document/10531702) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
 
 ```BibTeX
-@misc{zhou2023vision,
-      title={Vision Language Models in Autonomous Driving and Intelligent Transportation Systems}, 
-      author={Xingcheng Zhou and Mingyu Liu and Bare Luka Zagar and Ekim Yurtsever and Alois C. Knoll},
-      year={2023},
-      eprint={2310.14414},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@ARTICLE{10531702,
+  author={Zhou, Xingcheng and Liu, Mingyu and Yurtsever, Ekim and Zagar, Bare Luka and Zimmer, Walter and Cao, Hu and Knoll, Alois C.},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={Vision Language Models in Autonomous Driving: A Survey and Outlook}, 
+  year={2024},
+  pages={1-20},
+  keywords={Autonomous vehicles;Task analysis;Planning;SData models;Surveys;Computational modeling;Visualization;Vision Language Model;Large Language Model;Autonomous Driving;Intelligent Vehicle;Conditional Data Generation;Decision Making;Language-guided Navigation;End-to-End Autonomous Driving},
+  doi={10.1109/TIV.2024.3402136}}
+
 ```
 
 ## :page_with_curl: Introduction
