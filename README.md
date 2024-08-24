@@ -100,6 +100,7 @@ language data, the vehicles, and transportation systems are able to deeply under
 | [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/pdf/2302.00673.pdf)                                                                            | 2023 | Open-loop Decision-Making, Visual Spatial Reasoning | [Github](https://github.com/jxbbb/ADAPT#adapt-action-aware-driving-caption-transformer) |
 | [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/pdf/2312.09245.pdf)       | 2023 | Closed-loop Control  | [Github](https://github.com/OpenGVLab/DriveMLM) |
 | [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf)       | 2023 | Open-loop Control, 3D Object Detection and Tracking  |  |
+| [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845)       | 2024 | Open-loop Control, Visual Spatial Reasonin  |  |
 
 
 ### Data Generation
