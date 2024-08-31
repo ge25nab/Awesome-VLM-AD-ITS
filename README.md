@@ -113,6 +113,8 @@ language data, the vehicles, and transportation systems are able to deeply under
 | [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/pdf/2310.07771.pdf)                                                                                       | 2023 | Conditional Multi-view Video Generation | [Github](https://github.com/shalfun/DrivingDiffusion)         |
 | [BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout](https://arxiv.org/pdf/2308.01661.pdf)                                                                            | 2023 | Conditional Image Generation            |                                                               |
 | [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845)                                                                                                                 | 2023 | Conditional Video Generation            | [Github](https://drivedreamer2.github.io/)         |
+| [DDriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving](https://arxiv.org/pdf/2408.16647)                                                                                                                 | 2024 | Conditional Video Generation            |         |
+
 
 ## 🌟 Large VLMs in Intelligent Transportation Systems
 
