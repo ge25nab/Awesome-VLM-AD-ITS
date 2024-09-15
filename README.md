@@ -103,6 +103,7 @@ language data, the vehicles, and transportation systems are able to deeply under
 | [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf)       | 2023 | Open-loop Control, 3D Object Detection and Tracking  |  |
 | [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845)       | 2024 | Open-loop Control, Visual Spatial Reasoning  |  |
 | [Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving](https://arxiv.org/pdf/2409.06702)       | 2024 | Open-loop Control, Visual Spatial Reasoning  |  |
+| [MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving](https://arxiv.org/pdf/2409.07267)       | 2024 | Open-loop Control, Visual Spatial Reasoning  |  |
 
 ### Data Generation
 | Method                                                                                                                                                                                                                              | Year | Task                                    | Code Link                                                     |                                               
