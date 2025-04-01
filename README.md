@@ -104,7 +104,8 @@ language data, the vehicles, and transportation systems are able to deeply under
 | [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845)       | 2024 | Open-loop Control, Visual Spatial Reasoning  |  |
 | [Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving](https://arxiv.org/pdf/2409.06702)       | 2024 | Open-loop Control, Visual Spatial Reasoning  |  |
 | [MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving](https://arxiv.org/pdf/2409.07267)       | 2024 | Open-loop Control, Visual Spatial Reasoning  |  |
-| [EMMA: End-to-End Multimodal Model for Autonomous Driving]([https://arxiv.org/pdf/2409.07267](https://arxiv.org/html/2410.23262v1))       | 2025 | Open-loop planning |  |
+| [EMMA: End-to-End Multimodal Model for Autonomous Driving](https://arxiv.org/html/2410.23262v1)       | 2025 | Open-loop planning |  |
+| [OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](https://arxiv.org/pdf/2503.23463)       | 2025 | Open-loop planning, Visual Question Answering | [Github](https://github.com/DriveVLA/OpenDriveVLA) |
 
 
 
